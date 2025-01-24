@@ -35,16 +35,24 @@ Passive face liveness verification determines whether a face presented to the ca
 ## Example Spoof Attacks
 
 ### 1. Printed Photo Spoof
-<img src="images/samples/spoof/anti_mobile_original-photo-3.jpeg" alt="Printed Photo Spoof" style="max-height: 400px; width: auto; display: block; margin: 0 auto;">
+<img src="images/samples/spoof/anti_mobile_original-photo-3.jpeg" 
+    alt="Printed Photo Spoof" 
+    class="centered-spoof-image">
 
 ### 2. Screen Replay Attack
-<img src="images/samples/spoof/anti_mobile_original-photo-3.webp" alt="Screen Replay Attack" style="max-height: 400px; width: auto; display: block; margin: 0 auto;">
+<img src="images/samples/spoof/anti_mobile_original-photo-3.webp" 
+    alt="Screen Replay Attack" 
+    class="centered-spoof-image">
 
 ### 3. Mask with Cut-Out Eyes
-<img src="images/samples/spoof/anti_print_cut_eye_curved_original-photo-1.png" alt="Mask with Cut-Out Eyes" style="max-height: 400px; width: auto; display: block; margin: 0 auto;">
+<img src="images/samples/spoof/anti_print_cut_eye_curved_original-photo-1.png" 
+    alt="Mask with Cut-Out Eyes" 
+    class="centered-spoof-image">
 
 ### 4. Tablet Replay Attack
-<img src="images/samples/spoof/anti_ipad_original-photo-2.jpg" alt="Tablet Replay Attack" style="max-height: 400px; width: auto; display: block; margin: 0 auto;">
+<img src="images/samples/spoof/anti_ipad_original-photo-2.jpg" 
+    alt="Tablet Replay Attack" 
+    class="centered-spoof-image">
 
 ---
 
