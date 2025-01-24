@@ -35,7 +35,7 @@ Passive face liveness verification determines whether a face presented to the ca
 ## Example Spoof Attacks
 
 ### 1. Printed Photo Spoof
-<img src="images/samples/spoof/anti_mobile_original-photo-3.jpeg" 
+<img src="images/samples/spoof/anti_print_flat_1.jpg" 
     alt="Printed Photo Spoof" 
     class="centered-spoof-image">
 
@@ -44,8 +44,8 @@ Passive face liveness verification determines whether a face presented to the ca
     alt="Screen Replay Attack" 
     class="centered-spoof-image">
 
-### 3. Mask with Cut-Out Eyes
-<img src="images/samples/spoof/anti_print_cut_eye_curved_original-photo-1.png" 
+### 3. Printed Photo with Cut-Out Eyes, Nose & Mouth 
+<img src="images/samples/spoof/anti_print_cut_eye_nose_mouth_flat_2.jpg" 
     alt="Mask with Cut-Out Eyes" 
     class="centered-spoof-image">
 
