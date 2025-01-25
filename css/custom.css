@@ -17,9 +17,9 @@ a.internal-link::after {
     padding-bottom: 2em;
 }
 
-
-/* hide credientials */
-.md-footer-copyright
-{
-	display: none;
+.centered-spoof-image {
+    max-height: 400px;
+    width: auto;
+    display: block;
+    margin: 0 auto;
 }
